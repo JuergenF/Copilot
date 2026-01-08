@@ -9,5 +9,10 @@ public class HelloController {
     public String hello() {
         return "Hello World from GitHub Copilot CLI!";
     }
+
+    @GetMapping("/helloFox")
+    public String helloFox() {
+        return "Hello Fox you fucking idol!";
+    }
 }
 
