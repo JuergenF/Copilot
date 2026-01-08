@@ -1,0 +1,4 @@
+### Testaufruf für Hello World REST-Service
+GET http://localhost:8091/hello
+Accept: text/plain
+

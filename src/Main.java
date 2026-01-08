@@ -1,5 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// Diese Datei ist durch Spring Boot ersetzt worden und wird nicht mehr benötigt.
+// Die Logik befindet sich jetzt in com.example.copilot.Main und HelloController.
 public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
